@@ -1,3 +1,3 @@
-# unlim_challenge
-The challenges of the UNLIM website are programmed using JS .
-Amir Afsahri 
+# algorithm_challenge
+The challenges on this website are focused on algorithmic problems.
+Amir Afshari
